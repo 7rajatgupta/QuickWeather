@@ -6,3 +6,6 @@
 
 
 ![Delhi](https://dl2.pushbulletusercontent.com/2fNaI2d0MpJzwmLsXBTneYMu2yl5QaTh/Screenshot%20from%202018-03-05%2013-46-30.png)
+
+### This weather app is made using the React framework and Bootstrap CSS
+#### For suggestions and improvements, kindly open an issue branch.
